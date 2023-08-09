@@ -15,6 +15,8 @@
 ### What I'm Working On
 I don't know
 
+### My most used languages
+<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexoDess211&theme=transparent&count_private=true" /></a>
 
 <!---
 AlexoDess211/AlexoDess211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
