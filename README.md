@@ -12,7 +12,7 @@
 - [Cocrea](https://cocrea.world/@alexodess) : Alexodess
 - [Discord 🎮](https://discord.gg/47TPwhzgfw) : Alexodess
 - [French Scratch Wiki 📔](https://fr.scratch-wiki.info/wiki/Utilisateur:Alexodess) : Alexodess
-- [Test Scratch Wiki 📔](https://test.scratch-wiki.info/wiki/User:Alexodess) : Alexodess
+- [Test Scratch Wiki 📔](https://test.scratch-wiki.info/wiki/User:Alexodess) : Alexodess\
 Don't have inspiration for usernames, I know 😅.
 
 ### What I'm Working On
