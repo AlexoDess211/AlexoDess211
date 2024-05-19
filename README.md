@@ -24,6 +24,9 @@ My blog 🌐 is here : [https://alexodess211.github.io/home/](https://alexodess2
 ### My Github stats
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AlexoDess211)](https://github.com/anuraghazra/github-readme-stats)
 
+### Other stuff
+![Count](https://camo.githubusercontent.com/1e52dcb26c5d6c3f266531a837eb3ee816f120d7e1ee0d5a41b113824a002fdc/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f253742456c657472697854696d6559542537442f636f756e742e737667)
+
 <!---
 AlexoDess211/AlexoDess211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
